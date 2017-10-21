@@ -6,3 +6,6 @@ C:\Users\Zachary Faulk\Documents\Visual Studio 2015\Projects\ZacharyFaulk CECS54
 C:\Users\Zachary Faulk\Documents\Visual Studio 2015\Projects\ZacharyFaulk CECS545 P2\ZacharyFaulk CECS545 P2\bin\Debug\ZacharyFaulk CECS545 P2.pdb
 C:\Users\Zachary Faulk\Documents\Visual Studio 2015\Projects\ZacharyFaulk CECS545 P2\ZacharyFaulk CECS545 P2\obj\Debug\ZacharyFaulk CECS545 P2.exe
 C:\Users\Zachary Faulk\Documents\Visual Studio 2015\Projects\ZacharyFaulk CECS545 P2\ZacharyFaulk CECS545 P2\obj\Debug\ZacharyFaulk CECS545 P2.pdb
+C:\Users\Zachary Faulk\Documents\GitHub\AIProject2\ZacharyFaulk CECS545 P2\bin\Debug\ZacharyFaulk CECS545 P2.exe.config
+C:\Users\Zachary Faulk\Documents\GitHub\AIProject2\ZacharyFaulk CECS545 P2\obj\Debug\ZacharyFaulk CECS545 P2.exe
+C:\Users\Zachary Faulk\Documents\GitHub\AIProject2\ZacharyFaulk CECS545 P2\obj\Debug\ZacharyFaulk CECS545 P2.pdb
